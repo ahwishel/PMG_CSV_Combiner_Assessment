@@ -89,6 +89,6 @@ if __name__ == '__main__':
             pathname = join(dirpath,filename)
             if isfile(pathname):
                remove(pathname)
-      # main()
+      main()
       
-   # unittest.main()
+   unittest.main()
